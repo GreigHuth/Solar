@@ -14,7 +14,7 @@ corresponding files.
 ## install guide
 **set-up virtualenv**
 
-`virtualenv -p/where/python2/is .venv`
+`virtualenv -p (which python) .venv`
 
 `source .venv/bin/activate`
 
